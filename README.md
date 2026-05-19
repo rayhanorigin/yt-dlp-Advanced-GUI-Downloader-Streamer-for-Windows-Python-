@@ -62,7 +62,11 @@ To run this tool smoothly on Windows, you need three core helper components inst
 > If you encounter download blocks or errors on certain websites, place your exported `cookies.txt` file directly into the script's folder. The app will automatically detect it and instantly activate the **"Inject cookies.txt parameter profile"** option to bypass restrictions securely! Alternatively, use the **"Cookies from browser"** option from Advanced section.
 
 ---
+## 😴 For Lazy People
 
+If you don't want to go through Python stuff, you can still try my Same script but based on Windows VBS [HERE](https://github.com/rayhanorigin/ytdlp-gui-windows)
+
+---
 ## ⚖️ Disclaimer & License
 
 This open-source tool is engineered strictly for personal educational and archival use. Please respect the copyright terms of the respective platforms you interact with. The author holds no responsibility for any misuse or policy violations.
