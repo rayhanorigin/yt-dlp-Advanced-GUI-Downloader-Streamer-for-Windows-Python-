@@ -7,9 +7,11 @@ This tool serves as a powerful graphical interface (GUI) wrapper for **yt-dlp**,
 ---
 ## 🖼 Screenshots
 
-<img width="402" height="382" alt="image" src="https://github.com/user-attachments/assets/a2a8db0f-8b6a-4bbe-92c5-b80b6a64a674" />
+<img width="402" height="382" alt="image" src="https://github.com/user-attachments/assets/7c58c1df-0f00-4dbd-bb05-77fa489f31c6" />
+
 <img width="402" height="382" alt="image" src="https://github.com/user-attachments/assets/17ad005b-5ac6-4933-8200-62c9ebaad3c8" />
-<img width="402" height="382" alt="image" src="https://github.com/user-attachments/assets/199185a3-2d1d-400b-9299-eb05d123b798" />
+<img width="402" height="382" alt="image" src="https://github.com/user-attachments/assets/c92fc7ed-ad47-44f3-82a1-89bc9455949c" />
+
 <img width="402" height="382" alt="image" src="https://github.com/user-attachments/assets/70ae85d3-b18c-4b93-a92e-2d459e7c4602" />
 
 ---
