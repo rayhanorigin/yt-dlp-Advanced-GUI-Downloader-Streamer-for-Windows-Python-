@@ -69,7 +69,7 @@ If you don't want to go through Python stuff, you can still try my Same script b
 
 ---
 ## ⚖️ Disclaimer & License
-
+### 📌 I vibe coded the project but I'm pretty confident with this tool. ###
 This open-source tool is engineered strictly for personal educational and archival use. Please respect the copyright terms of the respective platforms you interact with. The author holds no responsibility for any misuse or policy violations.
 
 ---
